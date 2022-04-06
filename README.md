@@ -3,7 +3,8 @@ study golang standards library
 
 - 目录
   - [strings 字符串操作](./strings/example.go) 
-  - [time](./time/example.go) 
+  - [time](./time/example.go)
+  - [strconv](./strconv/example.go)
 
 
 ---
